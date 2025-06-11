@@ -1,0 +1,186 @@
+{
+
+    "name": "Mokrar 2024/2025",
+    "description": "A descriptif json file of Mokrar for year 2024/2025",
+    "year": 2025,
+    "issued": "2024-07-03",
+    "date": {
+        "enrollement": {
+            "teachers": "2024-07-03",
+            "students": "2024-07-03"
+        },
+        "classes": "2024-07-03"
+    },
+    "holidays": {
+        "mawlid_nabawi": {
+          "id": 1,
+          "name": "Aïd Mawlid Nabawi",
+          "name_ar": "عيد المولد النبوي الشريف",
+          "is_hijri": true,
+          "start": "1446-03-12",
+          "end": "1446-03-13",
+          "total_days": 2
+        },
+        "first_mid_term": {
+          "id": 2,
+          "name": "Vacances intermédiaires 1",
+          "name_ar": "العطلة البينية الأولى",
+          "is_hijri": false,
+          "start": "2024-10-20",
+          "end": "2024-10-27",
+          "total_days": 8
+        },
+        "green_march": {
+          "id": 3,
+          "name": "Anniversaire de la Marche Verte",
+          "name_ar": "ذكرى المسيرة الخضراء",
+          "is_hijri": false,
+          "start": "2024-11-06",
+          "end": "2024-11-06",
+          "total_days": 1
+        },
+        "independence_day": {
+          "id": 4,
+          "name": "Fête de l’indépendance",
+          "name_ar": "عيد الاستقلال",
+          "is_hijri": false,
+          "start": "2024-11-18",
+          "end": "2024-11-18",
+          "total_days": 1
+        },
+        "second_mid_term": {
+          "id": 5,
+          "name": "Vacances intermédiaires 2",
+          "name_ar": "العطلة البينية الثانية",
+          "is_hijri": false,
+          "start": "2024-12-08",
+          "end": "2024-12-15",
+          "total_days": 8
+        },
+        "new_year": {
+          "id": 6,
+          "name": "Jour de l’An",
+          "name_ar": "فاتح السنة الميلادية",
+          "is_hijri": false,
+          "start": "2025-01-01",
+          "end": "2025-01-01",
+          "total_days": 1
+        },
+        "independence_document": {
+          "id": 7,
+          "name": "Présentation du Manifeste de l’indépendance",
+          "name_ar": "ذكرى تقديم وثيقة الاستقلال",
+          "is_hijri": false,
+          "start": "2025-01-11",
+          "end": "2025-01-11",
+          "total_days": 1
+        },
+        "amazigh_new_year": {
+          "id": 8,
+          "name": "Nouvel An Amazigh",
+          "name_ar": "عطلة رأس السنة الأمازيغية",
+          "is_hijri": false,
+          "start": "2025-01-14",
+          "end": "2025-01-14",
+          "total_days": 1
+        },
+        "mid_year_break": {
+          "id": 9,
+          "name": "Vacances de mi-année",
+          "name_ar": "عطلة منتصف السنة الدراسية",
+          "is_hijri": false,
+          "start": "2025-01-26",
+          "end": "2025-02-02",
+          "total_days": 8
+        },
+        "third_mid_term": {
+          "id": 10,
+          "name": "Vacances intermédiaires 3",
+          "name_ar": "العطلة البينية الثالثة",
+          "is_hijri": false,
+          "start": "2025-03-16",
+          "end": "2025-03-23",
+          "total_days": 8
+        },
+        "eid_fitr": {
+          "id": 11,
+          "name": "Aïd al-Fitr",
+          "name_ar": "عيد الفطر",
+          "is_hijri": true,
+          "start": "1446-09-29",
+          "end": "1446-10-02",
+          "total_days": 4
+        },
+        "labour_day": {
+          "id": 12,
+          "name": "Fête du Travail",
+          "name_ar": "عيد الشغل",
+          "is_hijri": false,
+          "start": "2025-05-01",
+          "end": "2025-05-01",
+          "total_days": 1
+        },
+        "fourth_mid_term": {
+          "id": 13,
+          "name": "Vacances intermédiaires 4",
+          "name_ar": "العطلة البينية الرابعة",
+          "is_hijri": false,
+          "start": "2025-05-04",
+          "end": "2025-05-11",
+          "total_days": 8
+        },
+        "eid_adha": {
+          "id": 14,
+          "name": "Aïd al-Adha",
+          "name_ar": "عيد الأضحى",
+          "is_hijri": true,
+          "start": "1446-12-09",
+          "end": "1446-12-11",
+          "total_days": 3
+        },
+        "muharram": {
+          "id": 15,
+          "name": "1er Muharram",
+          "name_ar": "فاتح محرم",
+          "is_hijri": true,
+          "start": "1447-01-01",
+          "end": "1447-01-01",
+          "total_days": 1
+        }
+    },
+    "evaluations": {
+        "s1": {
+            "saisie_des_notes": {
+                "name": "Saisie des notes",
+                "name_ar": "مسك النقط",
+                "start": "2025-01-10",
+                "end": "2025-01-10",
+                "total_days": 1
+            },
+            "dernieres_evaluations": {
+                "name": "Les dernières épreuves de contrôle continu",
+                "name_ar": "آخر فروض المراقبة المستمرة",
+                "start": "2024-12-30",
+                "end": "2025-01-04",
+                "total_days": 6
+            }
+        },
+        "s2": {
+            "saisie_des_notes": {
+                "name": "Saisie des notes",
+                "name_ar": "مسك النقط",
+                "start": "2025-06-28",
+                "end": "2025-06-28",
+                "total_days": 1
+            },
+            "dernieres_evaluations": {
+                "name": "Les dernières épreuves de contrôle continu",
+                "name_ar": "آخر فروض المراقبة المستمرة",
+                "start": "2025-06-16",
+                "end": "2025-06-21",
+                "total_days": 6
+            }
+        }
+    }
+
+}

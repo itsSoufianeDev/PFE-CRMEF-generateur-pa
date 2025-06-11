@@ -1,0 +1,179 @@
+{
+    "name": "Tronc Commun Informatique",
+    "name_ar": "الجدع مشترك معلوميات",
+    "description": "Descriptif file of modules of Tronc Commun Informatique",
+    "total_hours": 68,
+    "total_weeks": 34,
+    "cours_schedule": {
+        "M1": {
+            "id": 1,
+            "name": "Généralités sur les systèmes informatiques",
+            "total_hours": 8,
+            "seances": {
+                "s1": {
+                    "name": "Définitions et vocabulaire de base",
+                    "total_hours": 2
+                },
+                "s2": {
+                    "name": "Structure de base d’un ordinateur 1",
+                    "total_hours": 2
+                },
+                "s3": {
+                    "name": "Structure de base d’un ordinateur 2",
+                    "total_hours": 2
+                },
+                "s4": {
+                    "name": "Les types de logiciels & domaines d’application",
+                    "total_hours": 2
+                }
+            }
+        },
+        "M2": {
+            "id": 2,
+            "name": "Les logiciels",
+            "total_hours": 22,
+            "seances": {
+                "s1": {
+                    "name": "Fonctionalités de base d’un système d’exploitation",
+                    "total_hours": 2
+                },
+                "s2": {
+                    "name": "Envireonnement d'un système d’exploitation",
+                    "total_hours": 2
+                },
+                "s3": {
+                    "name": "Gestion des fichiers/dossiers",
+                    "total_hours": 2
+                },
+                "s4": {
+                    "name": "Fonctionalités d'un texteur",
+                    "total_hours": 2
+                },
+                "s5": {
+                    "name": "L’environnement de travail",
+                    "total_hours": 2
+                },
+                "s6": {
+                    "name": "Elaboration d'un document 1",
+                    "total_hours": 2
+                },
+                "s7": {
+                    "name": "Elaboration d'un document 2",
+                    "total_hours": 2
+                },
+                "s8": {
+                    "name": "Elaboration d'un document 3",
+                    "total_hours": 2
+                },
+                "s9": {
+                    "name": "Fonctionalités d'un tableur & l'environnement de travail",
+                    "total_hours": 2
+                },
+                "s10": {
+                    "name": "Elaboration d'un tableau 1",
+                    "total_hours": 2
+                },
+                "s11": {
+                    "name": "Tableur: les graphiques",
+                    "total_hours": 2
+                }
+            }
+        },
+        "M3": {
+            "id": 3,
+            "name": "Algorithmique et programmation",
+            "total_hours": 16,
+            "seances": {
+                "s1": {
+                    "name": "Notion d'algorithme",
+                    "total_hours": 2
+                },
+                "s2": {
+                    "name": "Instructions de base",
+                    "total_hours": 2
+                },
+                "s3": {
+                    "name": "Structure de contrôle de base 1",
+                    "total_hours": 2
+                },
+                "s4": {
+                    "name": "Structure de contrôle de base 2",
+                    "total_hours": 2
+                },
+                "s5": {
+                    "name": "Structure de contrôle de base 3",
+                    "total_hours": 2
+                },
+                "s6": {
+                    "name": "Languages de programmation 1",
+                    "total_hours": 2
+                },
+                "s7": {
+                    "name": "Languages de programmation 2",
+                    "total_hours": 2
+                },
+                "s8": {
+                    "name": "Languages de programmation 3",
+                    "total_hours": 2
+                }
+            }
+        },
+        "M4": {
+            "id": 4,
+            "name": "Réseaux & Internet",
+            "total_hours": 14,
+            "seances": {
+                "s1": {
+                    "name": "Notion de réseau informatique 1",
+                    "total_hours": 2
+                },
+                "s2": {
+                    "name": "Notion de réseau informatique 2",
+                    "total_hours": 2
+                },
+                "s3": {
+                    "name": "Réseau Internet 1",
+                    "total_hours": 2
+                },
+                "s4": {
+                    "name": "Réseau Internet 2",
+                    "total_hours": 2
+                },
+                "s5": {
+                    "name": "Réseau Internet 3",
+                    "total_hours": 2
+                },
+                "s6": {
+                    "name": "Réseau Internet 4",
+                    "total_hours": 2
+                },
+                "s7": {
+                    "name": "Réseau Internet 5",
+                    "total_hours": 2
+                },
+            }
+        }
+    },
+    "exams_schedule": {
+        "e1": {
+            "name": "Examen de contrôle continue N1 du premier semestre",
+            "name_ar": "امتحان المراقبة المستمرة رقم 1 للدورة الأولى",
+            "on_week": 5
+        },
+        "e2": {
+            "name": "Examen de contrôle continue N2 du premier semestre",
+            "name_ar": "امتحان المراقبة المستمرة رقم 2 للدورة الأولى",
+            "on_week": 13
+        },
+        "e3": {
+            "name": "Examen de contrôle continue N3 du deuxième semestre",
+            "name_ar": "امتحان المراقبة المستمرة رقم 3 للدورة الثانية",
+            "on_week": 26
+        },
+        "e4": {
+            "name": "Examen de contrôle continue N4 du deuxième semestre",
+            "name_ar": "امتحان المراقبة المستمرة رقم 4 للدورة الثانية",
+            "on_week": 34
+        }
+    }
+}
